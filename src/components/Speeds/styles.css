@@ -1,0 +1,22 @@
+.speeds__container{
+    border: 3px solid #49F3FF;
+    width: 705px;
+    height: 403px;
+    margin-bottom: 10px;
+  }
+  .speeds__container > .abt{
+    border-bottom: 3px solid #49F3FF;
+    display: flex;
+    justify-content: space-between;
+  }
+  .speeds__container > .abt > h1{
+    font-family: 'amc100k';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFD21D;
+    padding: 17px;
+    margin: 0;
+  }
+  
